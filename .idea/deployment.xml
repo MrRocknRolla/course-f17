@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="PublishConfigData" serverName="icarus.cs.weber.edu">
+    <serverData>
+      <paths name="icarus.cs.weber.edu">
+        <serverdata>
+          <mappings>
+            <mapping deploy="/course-f17/v1" local="$PROJECT_DIR$" web="/course-f17/v1" />
+          </mappings>
+        </serverdata>
+      </paths>
+    </serverData>
+  </component>
+</project>
